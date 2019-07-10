@@ -1,0 +1,5 @@
+
+*.jpg
+*.ckpt
+*.meta
+Autopilot-TensorFlow-master/Autopilot-TensorFlow-master/save/checkpoint
